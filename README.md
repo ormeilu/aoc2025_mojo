@@ -3,8 +3,8 @@
 ## Days completed:
 
 - [x] Day 1
-              - [x] Day 1, Part One
-          - [ ] Day 1, Part Two
+  - [x] Day 1, Part One
+  - [ ] Day 1, Part Two
 - [ ] Day 2
   - [x] Day 2, Part One
   - [ ] Day 2, Part Two
